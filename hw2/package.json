@@ -1,12 +1,16 @@
 {
-  "name": "hw2",
+  "name": "new_random_pass",
   "version": "1.0.0",
   "main": "generateRandomPassword.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zamchalin Michael",
   "license": "ISC",
-  "description": ""
+  "description": "This library can generation random password",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zamchalin/Node-HW.git"
+  }
 }
